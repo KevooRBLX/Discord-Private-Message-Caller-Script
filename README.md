@@ -2,12 +2,12 @@ Introducing the Discord DM Caller with Script feature! It's a handy tool that le
 
 To get started, make sure you have the latest version of Discord installed on your device. You can find the DM Caller with Script feature right inside the Discord app.
 
-When you want to make a call, make sure you're looking at a channel in a server. Once you're in the channel, just click on the DM Caller icon, usually located in the top-right corner of your screen.
+When you want to make a call, make sure you're looking at the channel of the friend you want to initiate the call with. Once you're in the channel, just run the main.js script, located in the main.js file [Duh].
 
-A new window will pop up, allowing you to choose who you want to call. You can either type in their username or pick them from your friends list. Once you've selected the person, click the "Call" button to start the call.
+Once you run the script, the call should be automatically started, and your friend will be able to join in. :D
 
-Now comes the fun part - the script feature! Before making the call, you can create or choose a script that guides your conversation. This script can have different lines or prompts that help you stay on track and cover everything you want to talk about.
-
-The script feature is great for saving time and keeping your calls organized. It's especially useful for regular conversations or professional discussions, as it helps you stay consistent and make sure you don't forget any important points.
+[OPTIONAL]The scripting feature is great for saving time if you have it as a snippet in your dev tools console. Tutorials are on Youtube to make a snippet just find one and make one and insert the script into it so you can run it at a much faster speed without having it copied.
 
 Remember, this version of the DM Caller supports scripts, but there might be updates in the future with even more features and improvements. Discord is always working to make things better for its users.
+
+Note: This is against **Discord's TOS** as it is considered a **self-bot**. It is unlikely you will actually get terminated but still **USE AT YOUR OWN RISK**
